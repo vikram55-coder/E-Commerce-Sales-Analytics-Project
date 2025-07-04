@@ -40,6 +40,7 @@ returns.sale_id → sales.sale_id`
 - Sales by Region (Map)
 - Sales and Profit by Month
 
+![sales_analytics_deshbord](https://github.com/user-attachments/assets/8dfcbb7f-b27a-4368-830a-80b7adb730e8)
 
 - 
  How to Use
