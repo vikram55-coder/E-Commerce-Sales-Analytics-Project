@@ -1,11 +1,15 @@
 # E-Commerce-Sales-Analytics-Project
 This project simulates a realistic retail sales analytics scenario using **6 CSV files (25,000 rows each)** and full stack analytics using MySQL, Python (Pandas)and Power BI
+
+
 Excel Tasks
 Removed duplicate rows
 Applied TRIM() to clean text data
 Used TEXT(date, "yyyy-mm-dd") for formatting
 Converted date/time into usable formats
 
+ 
+ 
  Dataset Files
 customers.csv` – Customer profile
 products.csv` – Product catalog
