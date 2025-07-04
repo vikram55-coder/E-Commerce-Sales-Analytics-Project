@@ -39,7 +39,7 @@ returns.sale_id → sales.sale_id`
 - Sales by Category (Pie/Bar)
 - Sales by Region (Map)
 - Sales and Profit by Month
-![sales_analytics_deshbord](https://github.com/user-attachments/assets/db10697c-cb5e-40f6-ac52-c3937ca4d3ce)
+
 
 - 
  How to Use
